@@ -1,7 +1,7 @@
 
     const api = {
-      key: "bf1b70d8296ebad7927b74f26efb574e",
-      base: "https://api.openweathermap.org/data/2.5/"
+      key: WEATHER_KEY,
+      base: WEATHER_BASE
     };
 
     currentLocationWeather();
